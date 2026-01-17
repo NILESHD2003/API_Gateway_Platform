@@ -1,8 +1,6 @@
 package dev.nileshdeshpande.gateway.advices;
 
 import lombok.Data;
-import org.springframework.http.HttpStatus;
-
 import java.time.LocalDateTime;
 
 @Data
